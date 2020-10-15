@@ -20,7 +20,7 @@
 %%EndProlog
 %0X1.121F87P-1016I5_BeginLayer
 1 1 1 1 0 0 0 0 0 0 Lb
-(ͼ�� 1) Ln
+(Í¼²ã 1) Ln
 1 XR
 0 R
 1.0000 1.0000 1.0000 0.0000 K
@@ -3443,7 +3443,8 @@ gsave annotatepage grestore showpage
 %%Trailer
 Adobe_Illustrator_AI5 /terminate get exec
 Adobe_ColorImage_AI6 /terminate get exec
-Adobe_typography_AI5 /terminate get exec
+Adobe_typography_AI5 /terminate get exe
+
 Adobe_cshow /terminate get exec
-Adobe_level2_AI5 /terminate get exec
-%%EOF
+Adobe_level2_AI5 /terminate get execetive
+%%EOFff
